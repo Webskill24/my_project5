@@ -1,0 +1,14 @@
+.top_game>div>img{
+	width: 250px;
+	height: 150px;
+	border-radius: 25px;
+	margin: 0px 15px;
+}
+.top_game>div{
+	text-align: justify;
+}
+body{
+	background-image: url("");
+	background-color:purple;
+	color:white;
+}
